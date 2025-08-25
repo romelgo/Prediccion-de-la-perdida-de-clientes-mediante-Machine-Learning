@@ -1,0 +1,15 @@
+﻿Nombre,Descripción
+RowNumber,Índice numérico (no relevante para el modelo)
+CustomerId,ID único del cliente (no predictivo)
+Surname,Apellido del cliente (posible para feature engineering)
+CreditScore,Puntuación crediticia
+Geography,"País (Francia, España, Alemania)"
+Gender,Género (Male/Female)
+Age,Edad del cliente
+Tenure,Años como cliente
+Balance,Saldo bancario
+NumOfProducts,Número de productos bancarios contratados
+HasCrCard,Tiene tarjeta de crédito (1/0)
+IsActiveMember,Miembro activo (1/0)
+EstimatedSalary,Salario estimado
+Exited,Variable objetivo (churn: 1 o 0)
